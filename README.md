@@ -26,8 +26,6 @@ This is the back end for an e-commerce site and it uses a working Express.js API
 
 ## Screenshots
 
-(./Assets/13-orm-homework-demo-01.gif)
-
-(./Assets/13-orm-homework-demo-02.gif)
-
-(./Assets/13-orm-homework-demo-03.gif)
+![Screenshot (84)](https://user-images.githubusercontent.com/76802722/116801665-dbf7b000-aad9-11eb-9f27-350196c6a584.png)
+![Screenshot (82)](https://user-images.githubusercontent.com/76802722/116801667-dd28dd00-aad9-11eb-9f50-aa25961459dc.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/76802722/116801668-de5a0a00-aad9-11eb-95dc-6d9faed9eda0.png)
